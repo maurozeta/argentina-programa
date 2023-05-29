@@ -9,4 +9,3 @@
 const $listaNumeros = document.querySelectorAll('li');
 
 const numerosListados = [];
-
