@@ -15,3 +15,8 @@ Al hacer click en "calcular", mostrar en un elemento pre-existente el mayor sala
 Punto bonus: si hay inputs vacíos, ignorarlos en el cálculo (no contarlos como 0).
 */
 console.log("Hello World!");
+
+
+const $obtenerFamiliares = document.querySelector("#obtener-familiares");
+
+
