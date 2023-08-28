@@ -12,16 +12,9 @@ Desafío de programación #1: Imprimí los números del 1 al 10
 
 */
 
-function ejercicio1(){
-    let i = 10;
-    while (i >= 1){
-        console.log(i);
-        i--;
-        }
-  }
+
   
-  ejercicio1();
-  
+
   
   
   /*
@@ -31,13 +24,7 @@ function ejercicio1(){
   */
   
   
-  function ejercicio2() {
-    for (i = 0; i < 100; i+2) {
-      console.log(i)
-    }
-  }
-  
-  console.log(ejercicio2());
+
   /*
   Desafío de programación #3: Imprimí la tabla de multiplicación del 7
   
