@@ -19,4 +19,15 @@ console.log("Hello World!");
 
 const $obtenerFamiliares = document.querySelector("#obtener-familiares");
 
+let $numeroFamiliares;
 
+$obtenerFamiliares.onclick = function() {
+    let = numeroFamiliares = parseInt(document.querySelector("#numero-familiares").textContent);
+    $numeroFamiliares = numeroFamiliares;
+}
+
+//const cantidadDeFamiliares = parseFloat($obtenerFamiliares.textContent);
+
+//console.log(cantidadDeFamiliares);
+
+console.log($numeroFamiliares);
